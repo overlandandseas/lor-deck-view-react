@@ -1,5 +1,5 @@
 import { Deck } from "lor-deckcodes-ts";
-import { CardData, getFormattedDeck } from "./utils/DeckUitls";
+import { CardCount, CardData, getFormattedDeck } from "./utils/DeckUitls";
 
 interface DeckListProps {
   deck: Deck | undefined;
@@ -9,60 +9,47 @@ export default function DeckList({ deck }: DeckListProps): JSX.Element {
   if (deck !== undefined) {
     const formattedDeck = getFormattedDeck(deck);
     return (
-      <div>
+      <>
         {formattedDeck.champions.length !== 0 && (
-          <div>
-            <h3>Champions</h3>
-            <ul className="list">
-              {formattedDeck.champions.map((champion) => (
-                <li key={champion.card.cardCode}>
-                  <Card card={champion.card} count={champion.count} />
-                </li>
-              ))}
-            </ul>
-          </div>
+          <CardTypeList type="Champions" cards={formattedDeck.champions} />
         )}
         {formattedDeck.followers.length !== 0 && (
-          <div>
-            <h3>Followers</h3>
-            <ul className="list">
-              {formattedDeck.followers.map((follower) => (
-                <li key={follower.card.cardCode}>
-                  <Card card={follower.card} count={follower.count} />
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-        {formattedDeck.spells.length !== 0 && (
-          <div>
-            <h3>Spells</h3>
-            <ul className="list">
-              {formattedDeck.spells.map((spell) => (
-                <li key={spell.card.cardCode}>
-                  <Card card={spell.card} count={spell.count} />
-                </li>
-              ))}
-            </ul>
-          </div>
+          <CardTypeList type="Followers" cards={formattedDeck.followers} />
         )}
         {formattedDeck.landmarks.length !== 0 && (
-          <div>
-            <h3>Landmarks</h3>
-            <ul className="list">
-              {formattedDeck.landmarks.map((landmark) => (
-                <li key={landmark.card.cardCode}>
-                  <Card card={landmark.card} count={landmark.count} />
-                </li>
-              ))}
-            </ul>
-          </div>
+          <CardTypeList type="Landmarks" cards={formattedDeck.landmarks} />
         )}
-      </div>
+        {formattedDeck.spells.length !== 0 && (
+          <CardTypeList type="Spells" cards={formattedDeck.spells} />
+        )}
+        {formattedDeck.equipment.length !== 0 && (
+          <CardTypeList type="Equipment" cards={formattedDeck.equipment} />
+        )}
+      </>
     );
   } else {
     return <></>;
   }
+}
+
+interface CardTypeListProps {
+  type: string;
+  cards: CardCount[];
+}
+
+function CardTypeList({ type, cards }: CardTypeListProps) {
+  return (
+    <>
+      <h3>{type}</h3>
+      <ul className="list">
+        {cards.map(({ card, count }) => (
+          <li key={card.cardCode}>
+            <Card card={card} count={count} />
+          </li>
+        ))}
+      </ul>
+    </>
+  );
 }
 
 interface CardProps {
@@ -72,8 +59,22 @@ interface CardProps {
 
 function Card({ card, count }: CardProps): JSX.Element {
   return (
-    <span className="code">
-      ({card.cost}) {card.name} x{count}
-    </span>
+    <>
+      <div className="code">
+        <span className="o-90">({card.cost}) </span>
+        {card.type === "Unit" && (
+          <span className="o-90">
+            {card.attack}|{card.health}
+          </span>
+        )}{" "}
+        {card.keywords.length !== 0 && (
+          <span className="o-30">
+            [{card.keywords.map((keyword) => keyword).join(", ")}]
+          </span>
+        )}{" "}
+        <span>{card.name}</span> <span className="o-60"> x{count}</span>
+      </div>
+      <p className="mt1 mb2 f6 o-70">{card.descriptionRaw}</p>
+    </>
   );
 }

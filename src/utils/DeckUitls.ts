@@ -51,6 +51,7 @@ export interface FormattedDeck {
   readonly champions: CardCount[];
   readonly followers: CardCount[];
   readonly landmarks: CardCount[];
+  readonly equipment: CardCount[];
   readonly spells: CardCount[];
 }
 
@@ -63,21 +64,27 @@ const deckDataMap: DeckDataMap = {};
 for (let card of set1 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set2 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set3 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set4 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set5 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set6 as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
+
 for (let card of set6cde as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
@@ -94,6 +101,7 @@ export function getFormattedDeck(deck: Deck): FormattedDeck {
   const followers = [];
   const landmarks = [];
   const spells = [];
+  const equipment = [];
 
   for (let { cardCode, count } of deck) {
     const card = getCardData(cardCode);
@@ -112,21 +120,27 @@ export function getFormattedDeck(deck: Deck): FormattedDeck {
       case "Landmark":
         landmarks.push({ card, count });
         break;
+      case "Equipment":
+        equipment.push({ card, count });
+        break;
       default:
         throw new Error("Unkown card type");
     }
   }
-  const cost = (a: CardCount, b: CardCount): number => a.card.cost - b.card.cost;
+  const cost = (a: CardCount, b: CardCount): number =>
+    a.card.cost - b.card.cost;
 
   champions.sort(cost);
   followers.sort(cost);
   landmarks.sort(cost);
+  equipment.sort(cost);
   spells.sort(cost);
 
   return {
     champions,
     followers,
     landmarks,
+    equipment,
     spells,
   };
 }
