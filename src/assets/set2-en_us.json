@@ -8,12 +8,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ001-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 1,
     "cost": 5,
     "health": 5,
@@ -25,12 +21,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Subpurrsible",
     "cardCode": "02PZ001",
-    "keywords": [
-      "Elusive"
-    ],
-    "keywordRefs": [
-      "Elusive"
-    ],
+    "keywords": ["Elusive"],
+    "keywordRefs": ["Elusive"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -50,12 +42,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ010-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 3,
     "cost": 2,
     "health": 2,
@@ -73,9 +61,7 @@
     "spellSpeedRef": "",
     "rarity": "COMMON",
     "rarityRef": "Common",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -90,12 +76,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ006-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -107,12 +89,8 @@
     "artistName": "Max Grecke",
     "name": "Gotcha!",
     "cardCode": "02PZ006",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "COMMON",
@@ -132,12 +110,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ004-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -149,12 +123,8 @@
     "artistName": "Kudos Productions",
     "name": "Vault Breaker",
     "cardCode": "02PZ004",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -174,12 +144,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ007-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 3,
     "cost": 4,
     "health": 3,
@@ -212,12 +178,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ002-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 5,
     "cost": 6,
     "health": 6,
@@ -243,22 +205,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02PZ008T2",
-      "02PZ008T1"
-    ],
+    "associatedCardRefs": ["02PZ008T2", "02PZ008T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 2,
     "cost": 5,
     "health": 4,
@@ -270,14 +225,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Vi",
     "cardCode": "02PZ008",
-    "keywords": [
-      "Challenger",
-      "Tough"
-    ],
-    "keywordRefs": [
-      "Challenger",
-      "Tough"
-    ],
+    "keywords": ["Challenger", "Tough"],
+    "keywordRefs": ["Challenger", "Tough"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -297,12 +246,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ009-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -314,12 +259,8 @@
     "artistName": "Kudos Productions",
     "name": "Trail of Evidence",
     "cardCode": "02PZ009",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -339,12 +280,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ003-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -356,12 +293,8 @@
     "artistName": "Kudos Productions",
     "name": "Suit Up!",
     "cardCode": "02PZ003",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -374,22 +307,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02PZ008",
-      "02PZ008T1"
-    ],
+    "associatedCardRefs": ["02PZ008", "02PZ008T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008T2-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 10,
     "cost": 5,
     "health": 5,
@@ -401,14 +327,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Vi",
     "cardCode": "02PZ008T2",
-    "keywords": [
-      "Challenger",
-      "Tough"
-    ],
-    "keywordRefs": [
-      "Challenger",
-      "Tough"
-    ],
+    "keywords": ["Challenger", "Tough"],
+    "keywordRefs": ["Challenger", "Tough"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -421,22 +341,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02PZ008",
-      "02PZ008T2"
-    ],
+    "associatedCardRefs": ["02PZ008", "02PZ008T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ008T1-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -448,12 +361,8 @@
     "artistName": "Kudos Productions",
     "name": "Vi's Vault Breaker",
     "cardCode": "02PZ008T1",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -473,12 +382,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02PZ005-full.png"
       }
     ],
-    "regions": [
-      "Piltover & Zaun"
-    ],
-    "regionRefs": [
-      "PiltoverZaun"
-    ],
+    "regions": ["Piltover & Zaun"],
+    "regionRefs": ["PiltoverZaun"],
     "attack": 4,
     "cost": 3,
     "health": 3,
@@ -511,12 +416,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW040-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 1,
     "health": 1,
@@ -528,12 +429,8 @@
     "artistName": "Kudos Productions",
     "name": "Shellshocker ",
     "cardCode": "02BW040",
-    "keywords": [
-      "Attune"
-    ],
-    "keywordRefs": [
-      "Attune"
-    ],
+    "keywords": ["Attune"],
+    "keywordRefs": ["Attune"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -553,12 +450,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW057-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 5,
     "health": 4,
@@ -570,14 +463,8 @@
     "artistName": "Kudos Productions",
     "name": "Slippery Waverider",
     "cardCode": "02BW057",
-    "keywords": [
-      "Elusive",
-      "Attune"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Attune"
-    ],
+    "keywords": ["Elusive", "Attune"],
+    "keywordRefs": ["Elusive", "Attune"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -597,12 +484,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW041-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 4,
     "health": 4,
@@ -614,19 +497,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "The Beast Below",
     "cardCode": "02BW041",
-    "keywords": [
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Deep"
-    ],
+    "keywords": ["Deep"],
+    "keywordRefs": ["Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
     "rarityRef": "Common",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -641,12 +518,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW013-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 1,
     "health": 1,
@@ -658,14 +531,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Prowling Cutthroat",
     "cardCode": "02BW013",
-    "keywords": [
-      "Fearsome",
-      "Elusive"
-    ],
-    "keywordRefs": [
-      "Fearsome",
-      "Elusive"
-    ],
+    "keywords": ["Fearsome", "Elusive"],
+    "keywordRefs": ["Fearsome", "Elusive"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -678,21 +545,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW034T1"
-    ],
+    "associatedCardRefs": ["02BW034T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW034.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW034-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 5,
@@ -704,12 +565,8 @@
     "artistName": "Kudos Productions",
     "name": "Monkey Idol",
     "cardCode": "02BW034",
-    "keywords": [
-      "Immobile"
-    ],
-    "keywordRefs": [
-      "Immobile"
-    ],
+    "keywords": ["Immobile"],
+    "keywordRefs": ["Immobile"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -729,12 +586,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW034T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 1,
     "health": 1,
@@ -746,14 +599,8 @@
     "artistName": "Kudos Productions",
     "name": "Powder Monkey",
     "cardCode": "02BW034T1",
-    "keywords": [
-      "Ephemeral",
-      "Last Breath"
-    ],
-    "keywordRefs": [
-      "Ephemeral",
-      "LastBreath"
-    ],
+    "keywords": ["Ephemeral", "Last Breath"],
+    "keywordRefs": ["Ephemeral", "LastBreath"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -766,21 +613,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW056T1"
-    ],
+    "associatedCardRefs": ["02BW056T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW056.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW056-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 6,
     "health": 4,
@@ -792,19 +633,13 @@
     "artistName": "Kudos Productions",
     "name": "Devourer of the Depths",
     "cardCode": "02BW056",
-    "keywords": [
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Deep"
-    ],
+    "keywords": ["Deep"],
+    "keywordRefs": ["Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
     "rarityRef": "Epic",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -819,12 +654,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW056T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -836,12 +667,8 @@
     "artistName": "Kudos Productions",
     "name": "Devour",
     "cardCode": "02BW056T1",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -854,21 +681,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW060T1"
-    ],
+    "associatedCardRefs": ["02BW060T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW060.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW060-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 1,
     "health": 1,
@@ -886,9 +707,7 @@
     "spellSpeedRef": "",
     "rarity": "COMMON",
     "rarityRef": "Common",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -896,21 +715,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW020"
-    ],
+    "associatedCardRefs": ["02BW020"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW011.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW011-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 4,
     "health": 3,
@@ -928,9 +741,7 @@
     "spellSpeedRef": "",
     "rarity": "RARE",
     "rarityRef": "Rare",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -938,24 +749,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW030T2",
-      "02BW030T3",
-      "02BW030T1",
-      "02BW030T4"
-    ],
+    "associatedCardRefs": ["02BW030T2", "02BW030T3", "02BW030T1", "02BW030T4"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 7,
     "cost": 7,
     "health": 5,
@@ -967,19 +769,13 @@
     "artistName": "Kudos Productions",
     "name": "Shipwreck Hoarder",
     "cardCode": "02BW030",
-    "keywords": [
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Deep"
-    ],
+    "keywords": ["Deep"],
+    "keywordRefs": ["Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
     "rarityRef": "Epic",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -994,12 +790,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -1011,19 +803,13 @@
     "artistName": "Kudos Productions",
     "name": "Keelbreaker",
     "cardCode": "02BW030T2",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "TREASURE"
-    ],
+    "subtypes": ["TREASURE"],
     "supertype": "",
     "type": "Spell",
     "collectible": false,
@@ -1038,12 +824,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -1055,19 +837,13 @@
     "artistName": "Kudos Productions",
     "name": "Treasure Trove",
     "cardCode": "02BW030T1",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "TREASURE"
-    ],
+    "subtypes": ["TREASURE"],
     "supertype": "",
     "type": "Spell",
     "collectible": false,
@@ -1082,12 +858,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030T4-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 5,
     "cost": 5,
     "health": 5,
@@ -1099,21 +871,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Vicious Platewyrm",
     "cardCode": "02BW030T4",
-    "keywords": [
-      "Fearsome",
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Fearsome",
-      "Deep"
-    ],
+    "keywords": ["Fearsome", "Deep"],
+    "keywordRefs": ["Fearsome", "Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": false,
@@ -1121,21 +885,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW030T4"
-    ],
+    "associatedCardRefs": ["02BW030T4"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW030T3-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -1147,19 +905,13 @@
     "artistName": "Kudos Productions",
     "name": "Platewyrm Egg",
     "cardCode": "02BW030T3",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "TREASURE"
-    ],
+    "subtypes": ["TREASURE"],
     "supertype": "",
     "type": "Spell",
     "collectible": false,
@@ -1174,12 +926,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW019-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 6,
@@ -1191,14 +939,8 @@
     "artistName": "Kudos Productions",
     "name": "Bubble Bear",
     "cardCode": "02BW019",
-    "keywords": [
-      "Attune",
-      "Elusive"
-    ],
-    "keywordRefs": [
-      "Attune",
-      "Elusive"
-    ],
+    "keywords": ["Attune", "Elusive"],
+    "keywordRefs": ["Attune", "Elusive"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -1218,12 +960,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW007-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 4,
     "health": 5,
@@ -1256,12 +994,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW014-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 2,
     "health": 3,
@@ -1273,12 +1007,8 @@
     "artistName": "Kudos Productions",
     "name": "Coral Creatures",
     "cardCode": "02BW014",
-    "keywords": [
-      "Attune"
-    ],
-    "keywordRefs": [
-      "Attune"
-    ],
+    "keywords": ["Attune"],
+    "keywordRefs": ["Attune"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -1298,12 +1028,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW055-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 2,
     "health": 2,
@@ -1315,12 +1041,8 @@
     "artistName": "JiHun Lee",
     "name": "Jagged Taskmaster",
     "cardCode": "02BW055",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -1340,12 +1062,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW017-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 6,
     "health": 5,
@@ -1357,12 +1075,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Citrus Courier",
     "cardCode": "02BW017",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -1382,12 +1096,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW038-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 4,
     "health": 2,
@@ -1399,14 +1109,8 @@
     "artistName": "Kudos Productions",
     "name": "Zap Sprayfin",
     "cardCode": "02BW038",
-    "keywords": [
-      "Elusive",
-      "Attune"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Attune"
-    ],
+    "keywords": ["Elusive", "Attune"],
+    "keywordRefs": ["Elusive", "Attune"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -1426,12 +1130,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW021-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 5,
     "health": 4,
@@ -1443,12 +1143,8 @@
     "artistName": "Alex Heath",
     "name": "Razorscale Hunter",
     "cardCode": "02BW021",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -1468,12 +1164,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW035-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 7,
     "cost": 6,
     "health": 6,
@@ -1506,12 +1198,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW058-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 1,
     "health": 2,
@@ -1523,12 +1211,8 @@
     "artistName": "Slawomir Maniak",
     "name": "Jagged Butcher",
     "cardCode": "02BW058",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -1541,21 +1225,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW028T1"
-    ],
+    "associatedCardRefs": ["02BW028T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW028.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW028-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 7,
     "cost": 8,
     "health": 5,
@@ -1567,12 +1245,8 @@
     "artistName": "MAR Studio",
     "name": "Riptide Rex",
     "cardCode": "02BW028",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -1592,12 +1266,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW028T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -1609,12 +1279,8 @@
     "artistName": "Kudos Productions",
     "name": "Cannon Barrage",
     "cardCode": "02BW028T1",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -1634,12 +1300,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW037-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 5,
     "health": 3,
@@ -1651,21 +1313,13 @@
     "artistName": "Kudos Productions",
     "name": "Abyssal Eye",
     "cardCode": "02BW037",
-    "keywords": [
-      "Elusive",
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Deep"
-    ],
+    "keywords": ["Elusive", "Deep"],
+    "keywordRefs": ["Elusive", "Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
     "rarityRef": "Rare",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -1673,21 +1327,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 3,
     "health": 1,
@@ -1705,9 +1353,7 @@
     "spellSpeedRef": "",
     "rarity": "RARE",
     "rarityRef": "Rare",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -1715,21 +1361,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008T02.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008T02-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 3,
     "health": 1,
@@ -1747,9 +1387,7 @@
     "spellSpeedRef": "",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": false,
@@ -1757,21 +1395,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008T01.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW008T01-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 3,
     "health": 1,
@@ -1789,9 +1421,7 @@
     "spellSpeedRef": "",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": false,
@@ -1806,12 +1436,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW047-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 1,
     "health": 1,
@@ -1837,21 +1463,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW004.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW004-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 2,
     "health": 2,
@@ -1877,21 +1497,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032"
-    ],
+    "associatedCardRefs": ["02BW032"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW002.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW002-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 8,
     "health": 6,
@@ -1903,14 +1517,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "The Dreadway",
     "cardCode": "02BW002",
-    "keywords": [
-      "Fearsome",
-      "Missing Translation"
-    ],
-    "keywordRefs": [
-      "Fearsome",
-      "AuraVisualFakeKeyword"
-    ],
+    "keywords": ["Fearsome", "Missing Translation"],
+    "keywordRefs": ["Fearsome", "AuraVisualFakeKeyword"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -1930,12 +1538,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW016-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 3,
     "health": 4,
@@ -1961,21 +1565,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW036"
-    ],
+    "associatedCardRefs": ["02BW036"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW027.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW027-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 6,
     "cost": 4,
     "health": 6,
@@ -2008,12 +1606,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW050-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 7,
     "health": 4,
@@ -2025,14 +1619,8 @@
     "artistName": "Chin LikHui",
     "name": "Smooth Soloist",
     "cardCode": "02BW050",
-    "keywords": [
-      "Elusive",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Plunder"
-    ],
+    "keywords": ["Elusive", "Plunder"],
+    "keywordRefs": ["Elusive", "Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -2045,21 +1633,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW022"
-    ],
+    "associatedCardRefs": ["02BW022"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW015.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW015-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 7,
     "health": 7,
@@ -2071,12 +1653,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "The Syren",
     "cardCode": "02BW015",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -2096,12 +1674,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW010-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 1,
     "health": 1,
@@ -2113,19 +1687,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Plunder Poro",
     "cardCode": "02BW010",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
     "rarityRef": "Common",
-    "subtypes": [
-      "PORO"
-    ],
+    "subtypes": ["PORO"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -2140,12 +1708,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW009-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 1,
     "cost": 1,
     "health": 2,
@@ -2178,12 +1742,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW005-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 2,
     "health": 3,
@@ -2216,12 +1776,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW039-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 3,
     "health": 1,
@@ -2233,12 +1789,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Jaull Hunters",
     "cardCode": "02BW039",
-    "keywords": [
-      "Challenger"
-    ],
-    "keywordRefs": [
-      "Challenger"
-    ],
+    "keywords": ["Challenger"],
+    "keywordRefs": ["Challenger"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -2258,12 +1810,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW006-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 4,
     "health": 2,
@@ -2296,12 +1844,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW036-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 2,
     "health": 3,
@@ -2313,14 +1857,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Golden Narwhal",
     "cardCode": "02BW036",
-    "keywords": [
-      "Elusive",
-      "Vulnerable"
-    ],
-    "keywordRefs": [
-      "Elusive",
-      "Vulnerable"
-    ],
+    "keywords": ["Elusive", "Vulnerable"],
+    "keywordRefs": ["Elusive", "Vulnerable"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -2340,12 +1878,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW033-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 2,
     "health": 2,
@@ -2357,12 +1891,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Black Market Merchant",
     "cardCode": "02BW033",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -2382,12 +1912,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW060T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -2399,12 +1925,8 @@
     "artistName": "Kudos Productions",
     "name": "Crackshot",
     "cardCode": "02BW060T1",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2417,24 +1939,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T3",
-      "02BW032T2",
-      "02BW032T1",
-      "02BW032T4"
-    ],
+    "associatedCardRefs": ["02BW032T3", "02BW032T2", "02BW032T1", "02BW032T4"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 5,
     "cost": 5,
     "health": 4,
@@ -2446,12 +1959,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Gangplank",
     "cardCode": "02BW032",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -2464,22 +1973,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032",
-      "02BW032T3"
-    ],
+    "associatedCardRefs": ["02BW032", "02BW032T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -2491,12 +1993,8 @@
     "artistName": "Kudos Productions",
     "name": "Gangplank's Parrrley",
     "cardCode": "02BW032T2",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "None",
@@ -2509,24 +2007,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1",
-      "02BW032T4",
-      "02BW032",
-      "02BW032T2"
-    ],
+    "associatedCardRefs": ["02BW032T1", "02BW032T4", "02BW032", "02BW032T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T3-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 6,
     "cost": 5,
     "health": 5,
@@ -2538,12 +2027,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Gangplank",
     "cardCode": "02BW032T3",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2563,12 +2048,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 1,
@@ -2580,14 +2061,8 @@
     "artistName": "Kudos Productions",
     "name": "Powder Keg",
     "cardCode": "02BW032T1",
-    "keywords": [
-      "Immobile",
-      "Vulnerable"
-    ],
-    "keywordRefs": [
-      "Immobile",
-      "Vulnerable"
-    ],
+    "keywords": ["Immobile", "Vulnerable"],
+    "keywordRefs": ["Immobile", "Vulnerable"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2600,21 +2075,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T4.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW032T4-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -2626,12 +2095,8 @@
     "artistName": "Kudos Productions",
     "name": "Powderful Explosion",
     "cardCode": "02BW032T4",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2644,24 +2109,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW022T4",
-      "02BW022T3",
-      "02BW022T2",
-      "02BW022T1"
-    ],
+    "associatedCardRefs": ["02BW022T4", "02BW022T3", "02BW022T2", "02BW022T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 3,
     "health": 3,
@@ -2687,22 +2143,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW022",
-      "02BW022T2"
-    ],
+    "associatedCardRefs": ["02BW022", "02BW022T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T3-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -2714,12 +2163,8 @@
     "artistName": "Kudos Productions",
     "name": "Miss Fortune's Make it Rain",
     "cardCode": "02BW022T3",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "None",
@@ -2732,23 +2177,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW022T4",
-      "02BW022",
-      "02BW022T3"
-    ],
+    "associatedCardRefs": ["02BW022T4", "02BW022", "02BW022T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 4,
     "cost": 3,
     "health": 4,
@@ -2760,12 +2197,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Miss Fortune",
     "cardCode": "02BW022T2",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2785,12 +2218,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T4-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -2802,12 +2231,8 @@
     "artistName": "Kudos Productions",
     "name": "Bullet Time",
     "cardCode": "02BW022T4",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2827,12 +2252,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW022T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -2844,12 +2265,8 @@
     "artistName": "Kudos Productions",
     "name": "Love Tap",
     "cardCode": "02BW022T1",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -2862,26 +2279,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW046T3",
-      "02BW046T1",
-      "02BW025",
-      "02BW046T2"
-    ],
+    "associatedCardRefs": ["02BW046T3", "02BW046T1", "02BW025", "02BW046T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater",
-      "Bandle City"
-    ],
-    "regionRefs": [
-      "Bilgewater",
-      "BandleCity"
-    ],
+    "regions": ["Bilgewater", "Bandle City"],
+    "regionRefs": ["Bilgewater", "BandleCity"],
     "attack": 2,
     "cost": 1,
     "health": 1,
@@ -2893,19 +2299,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Fizz",
     "cardCode": "02BW046",
-    "keywords": [
-      "Imbue"
-    ],
-    "keywordRefs": [
-      "Imbue"
-    ],
+    "keywords": ["Imbue"],
+    "keywordRefs": ["Imbue"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
     "rarityRef": "Champion",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
@@ -2913,26 +2313,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW046",
-      "02BW046T1",
-      "02BW025",
-      "02BW046T2"
-    ],
+    "associatedCardRefs": ["02BW046", "02BW046T1", "02BW025", "02BW046T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046T3-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater",
-      "Bandle City"
-    ],
-    "regionRefs": [
-      "Bilgewater",
-      "BandleCity"
-    ],
+    "regions": ["Bilgewater", "Bandle City"],
+    "regionRefs": ["Bilgewater", "BandleCity"],
     "attack": 3,
     "cost": 1,
     "health": 2,
@@ -2944,19 +2333,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Fizz",
     "cardCode": "02BW046T3",
-    "keywords": [
-      "Imbue"
-    ],
-    "keywordRefs": [
-      "Imbue"
-    ],
+    "keywords": ["Imbue"],
+    "keywordRefs": ["Imbue"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
@@ -2971,12 +2354,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 5,
     "cost": 4,
     "health": 2,
@@ -2988,12 +2367,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Longtooth",
     "cardCode": "02BW046T2",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3006,22 +2381,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW046",
-      "02BW046T3"
-    ],
+    "associatedCardRefs": ["02BW046", "02BW046T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW046T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -3033,12 +2401,8 @@
     "artistName": "Max Grecke",
     "name": "Fizz's Playful Trickster",
     "cardCode": "02BW046T1",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "None",
@@ -3064,12 +2428,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 4,
     "health": 2,
@@ -3081,12 +2441,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Twisted Fate",
     "cardCode": "02BW026",
-    "keywords": [
-      "Quick Attack"
-    ],
-    "keywordRefs": [
-      "QuickStrike"
-    ],
+    "keywords": ["Quick Attack"],
+    "keywordRefs": ["QuickStrike"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -3106,12 +2462,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T5-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -3123,12 +2475,8 @@
     "artistName": "Kudos Productions",
     "name": "Gold Card",
     "cardCode": "02BW026T5",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3154,12 +2502,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T3-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 3,
     "cost": 4,
     "health": 3,
@@ -3171,12 +2515,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Twisted Fate",
     "cardCode": "02BW026T3",
-    "keywords": [
-      "Quick Attack"
-    ],
-    "keywordRefs": [
-      "QuickStrike"
-    ],
+    "keywords": ["Quick Attack"],
+    "keywordRefs": ["QuickStrike"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3189,22 +2529,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW026T3",
-      "02BW026"
-    ],
+    "associatedCardRefs": ["02BW026T3", "02BW026"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -3216,12 +2549,8 @@
     "artistName": "Kudos Productions",
     "name": "Twisted Fate's Pick a Card",
     "cardCode": "02BW026T1",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -3241,12 +2570,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -3258,12 +2583,8 @@
     "artistName": "Kudos Productions",
     "name": "Blue Card",
     "cardCode": "02BW026T2",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3283,12 +2604,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW026T4-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -3300,12 +2617,8 @@
     "artistName": "Kudos Productions",
     "name": "Red Card",
     "cardCode": "02BW026T4",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3318,22 +2631,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW053T1",
-      "02BW053T2"
-    ],
+    "associatedCardRefs": ["02BW053T1", "02BW053T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 7,
     "health": 12,
@@ -3345,14 +2651,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Nautilus",
     "cardCode": "02BW053",
-    "keywords": [
-      "Tough",
-      "Fearsome"
-    ],
-    "keywordRefs": [
-      "Tough",
-      "Fearsome"
-    ],
+    "keywords": ["Tough", "Fearsome"],
+    "keywordRefs": ["Tough", "Fearsome"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -3365,22 +2665,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW053",
-      "02BW053T1"
-    ],
+    "associatedCardRefs": ["02BW053", "02BW053T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053T2-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -3392,12 +2685,8 @@
     "artistName": "Kudos Productions",
     "name": "Nautilus' Riptide",
     "cardCode": "02BW053T2",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "None",
@@ -3410,22 +2699,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW053",
-      "02BW053T2"
-    ],
+    "associatedCardRefs": ["02BW053", "02BW053T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW053T1-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 13,
     "cost": 7,
     "health": 13,
@@ -3437,16 +2719,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Nautilus",
     "cardCode": "02BW053T1",
-    "keywords": [
-      "Tough",
-      "Fearsome",
-      "Missing Translation"
-    ],
-    "keywordRefs": [
-      "Tough",
-      "Fearsome",
-      "AuraVisualFakeKeyword"
-    ],
+    "keywords": ["Tough", "Fearsome", "Missing Translation"],
+    "keywordRefs": ["Tough", "Fearsome", "AuraVisualFakeKeyword"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -3466,12 +2740,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW061-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -3483,12 +2753,8 @@
     "artistName": "Kudos Productions",
     "name": "Pocket Aces",
     "cardCode": "02BW061",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -3508,12 +2774,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW024-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -3525,12 +2787,8 @@
     "artistName": "Kudos Productions",
     "name": "Double Trouble",
     "cardCode": "02BW024",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "RARE",
@@ -3550,12 +2808,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW003-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 6,
     "health": 0,
@@ -3567,14 +2821,8 @@
     "artistName": "Kudos Productions",
     "name": "Strong-arm",
     "cardCode": "02BW003",
-    "keywords": [
-      "Slow",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Slow",
-      "Plunder"
-    ],
+    "keywords": ["Slow", "Plunder"],
+    "keywordRefs": ["Slow", "Plunder"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "RARE",
@@ -3587,21 +2835,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW046T2"
-    ],
+    "associatedCardRefs": ["02BW046T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW025.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW025-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -3613,12 +2855,8 @@
     "artistName": "Kudos Productions",
     "name": "Chum the Waters",
     "cardCode": "02BW025",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "COMMON",
@@ -3631,21 +2869,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW032T1"
-    ],
+    "associatedCardRefs": ["02BW032T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW012.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW012-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -3657,12 +2889,8 @@
     "artistName": "Kudos Productions",
     "name": "More Powder!",
     "cardCode": "02BW012",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "COMMON",
@@ -3682,12 +2910,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW018-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -3699,12 +2923,8 @@
     "artistName": "Kudos Productions",
     "name": "Parrrley",
     "cardCode": "02BW018",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "COMMON",
@@ -3724,12 +2944,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW048-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -3741,12 +2957,8 @@
     "artistName": "Kudos Productions",
     "name": "Jailbreak",
     "cardCode": "02BW048",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "COMMON",
@@ -3766,12 +2978,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW043-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -3783,12 +2991,8 @@
     "artistName": "Kudos Productions",
     "name": "Pick a Card",
     "cardCode": "02BW043",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -3808,12 +3012,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW051-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -3825,12 +3025,8 @@
     "artistName": "Max Grecke",
     "name": "Playful Trickster",
     "cardCode": "02BW051",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -3843,21 +3039,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02BW053"
-    ],
+    "associatedCardRefs": ["02BW053"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW054.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW054-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -3869,12 +3059,8 @@
     "artistName": "Kudos Productions",
     "name": "Riptide",
     "cardCode": "02BW054",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -3894,12 +3080,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW042-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 7,
     "health": 0,
@@ -3911,12 +3093,8 @@
     "artistName": "Kudos Productions",
     "name": "Mind Meld",
     "cardCode": "02BW042",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "EPIC",
@@ -3936,12 +3114,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW059-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 7,
     "health": 0,
@@ -3953,12 +3127,8 @@
     "artistName": "Kudos Productions",
     "name": "Scrapshot",
     "cardCode": "02BW059",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -3978,12 +3148,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW023-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -3995,12 +3161,8 @@
     "artistName": "Kudos Productions",
     "name": "Lure of the Depths",
     "cardCode": "02BW023",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -4020,12 +3182,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW031-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -4037,12 +3195,8 @@
     "artistName": "Kudos Productions",
     "name": "Double Up",
     "cardCode": "02BW031",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -4062,12 +3216,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW029-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -4079,12 +3229,8 @@
     "artistName": "Kudos Productions",
     "name": "Salvage",
     "cardCode": "02BW029",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -4104,12 +3250,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW049-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -4121,14 +3263,8 @@
     "artistName": "Kudos Productions",
     "name": "Pilfered Goods",
     "cardCode": "02BW049",
-    "keywords": [
-      "Burst",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Burst",
-      "Plunder"
-    ],
+    "keywords": ["Burst", "Plunder"],
+    "keywordRefs": ["Burst", "Plunder"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -4148,12 +3284,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW001-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -4165,12 +3297,8 @@
     "artistName": "Greg Faillace",
     "name": "Ye Been Warned",
     "cardCode": "02BW001",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "COMMON",
@@ -4190,12 +3318,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW063-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -4207,14 +3331,8 @@
     "artistName": "Kudos Productions",
     "name": "Sleight of Hand",
     "cardCode": "02BW063",
-    "keywords": [
-      "Slow",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Slow",
-      "Plunder"
-    ],
+    "keywords": ["Slow", "Plunder"],
+    "keywordRefs": ["Slow", "Plunder"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "RARE",
@@ -4234,12 +3352,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW045-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -4251,12 +3365,8 @@
     "artistName": "Kudos Productions",
     "name": "Make it Rain",
     "cardCode": "02BW045",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "COMMON",
@@ -4276,12 +3386,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW020-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -4293,12 +3399,8 @@
     "artistName": "Kudos Productions",
     "name": "Warning Shot",
     "cardCode": "02BW020",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -4318,12 +3420,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW044-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -4335,12 +3433,8 @@
     "artistName": "Kudos Productions",
     "name": "Jettison",
     "cardCode": "02BW044",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -4360,12 +3454,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02BW062-full.png"
       }
     ],
-    "regions": [
-      "Bilgewater"
-    ],
-    "regionRefs": [
-      "Bilgewater"
-    ],
+    "regions": ["Bilgewater"],
+    "regionRefs": ["Bilgewater"],
     "attack": 2,
     "cost": 4,
     "health": 4,
@@ -4377,12 +3467,8 @@
     "artistName": "Dao Le",
     "name": "Island Navigator",
     "cardCode": "02BW062",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -4402,12 +3488,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR009-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 4,
     "cost": 4,
     "health": 3,
@@ -4419,14 +3501,8 @@
     "artistName": "MAR Studio",
     "name": "Wolfrider",
     "cardCode": "02FR009",
-    "keywords": [
-      "Overwhelm",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Overwhelm",
-      "Plunder"
-    ],
+    "keywords": ["Overwhelm", "Plunder"],
+    "keywordRefs": ["Overwhelm", "Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -4446,12 +3522,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR004-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -4463,12 +3535,8 @@
     "artistName": "Kudos Productions",
     "name": "Caught in the Cold",
     "cardCode": "02FR004",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "RARE",
@@ -4481,22 +3549,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR002T3",
-      "02FR002T1"
-    ],
+    "associatedCardRefs": ["02FR002T3", "02FR002T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 5,
     "cost": 6,
     "health": 6,
@@ -4508,12 +3569,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Sejuani",
     "cardCode": "02FR002",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -4533,12 +3590,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR001-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 3,
     "cost": 3,
     "health": 2,
@@ -4564,21 +3617,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR005T1"
-    ],
+    "associatedCardRefs": ["02FR005T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR005.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR005-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 4,
     "cost": 5,
     "health": 6,
@@ -4590,12 +3637,8 @@
     "artistName": "Kudos Productions",
     "name": "Ursine Spiritwalker",
     "cardCode": "02FR005",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -4608,21 +3651,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR005"
-    ],
+    "associatedCardRefs": ["02FR005"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR005T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR005T1-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 6,
     "cost": 5,
     "health": 6,
@@ -4634,14 +3671,8 @@
     "artistName": "Kudos Productions",
     "name": "Stormclaw Ursine",
     "cardCode": "02FR005T1",
-    "keywords": [
-      "Overwhelm",
-      "Missing Translation"
-    ],
-    "keywordRefs": [
-      "Overwhelm",
-      "AuraVisualFakeKeyword"
-    ],
+    "keywords": ["Overwhelm", "Missing Translation"],
+    "keywordRefs": ["Overwhelm", "AuraVisualFakeKeyword"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -4661,12 +3692,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR010-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -4678,14 +3705,8 @@
     "artistName": "Kudos Productions",
     "name": "Shared Spoils",
     "cardCode": "02FR010",
-    "keywords": [
-      "Burst",
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Burst",
-      "Plunder"
-    ],
+    "keywords": ["Burst", "Plunder"],
+    "keywordRefs": ["Burst", "Plunder"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -4698,22 +3719,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR002",
-      "02FR002T3"
-    ],
+    "associatedCardRefs": ["02FR002", "02FR002T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR008.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR008-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 7,
     "cost": 8,
     "health": 7,
@@ -4725,12 +3739,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "The Tuskraider",
     "cardCode": "02FR008",
-    "keywords": [
-      "Plunder"
-    ],
-    "keywordRefs": [
-      "Plunder"
-    ],
+    "keywords": ["Plunder"],
+    "keywordRefs": ["Plunder"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -4743,22 +3753,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR002T3",
-      "02FR002"
-    ],
+    "associatedCardRefs": ["02FR002T3", "02FR002"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002T1-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -4770,12 +3773,8 @@
     "artistName": "Kudos Productions",
     "name": "Sejuani's Fury of the North",
     "cardCode": "02FR002T1",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -4788,22 +3787,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02FR002",
-      "02FR002T1"
-    ],
+    "associatedCardRefs": ["02FR002", "02FR002T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR002T3-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 6,
     "cost": 6,
     "health": 7,
@@ -4815,12 +3807,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Sejuani",
     "cardCode": "02FR002T3",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -4840,12 +3828,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR007-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -4857,12 +3841,8 @@
     "artistName": "Kudos Productions",
     "name": "Fury of the North",
     "cardCode": "02FR007",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -4882,12 +3862,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR006-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 3,
     "cost": 2,
     "health": 1,
@@ -4899,14 +3875,8 @@
     "artistName": "Kudos Productions",
     "name": "Ruthless Raider",
     "cardCode": "02FR006",
-    "keywords": [
-      "Overwhelm",
-      "Tough"
-    ],
-    "keywordRefs": [
-      "Overwhelm",
-      "Tough"
-    ],
+    "keywords": ["Overwhelm", "Tough"],
+    "keywordRefs": ["Overwhelm", "Tough"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -4919,21 +3889,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "01FR016"
-    ],
+    "associatedCardRefs": ["01FR016"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR003.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02FR003-full.png"
       }
     ],
-    "regions": [
-      "Freljord"
-    ],
-    "regionRefs": [
-      "Freljord"
-    ],
+    "regions": ["Freljord"],
+    "regionRefs": ["Freljord"],
     "attack": 0,
     "cost": 6,
     "health": 0,
@@ -4945,12 +3909,8 @@
     "artistName": "Kudos Productions",
     "name": "Aurora Porealis",
     "cardCode": "02FR003",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "EPIC",
@@ -4963,21 +3923,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02NX007"
-    ],
+    "associatedCardRefs": ["02NX007"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX001.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX001-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 5,
     "cost": 7,
     "health": 7,
@@ -4989,12 +3943,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "The Leviathan",
     "cardCode": "02NX001",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -5007,22 +3957,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02NX007T2",
-      "02NX007T1"
-    ],
+    "associatedCardRefs": ["02NX007T2", "02NX007T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 3,
     "cost": 5,
     "health": 6,
@@ -5034,12 +3977,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Swain",
     "cardCode": "02NX007",
-    "keywords": [
-      "Fearsome"
-    ],
-    "keywordRefs": [
-      "Fearsome"
-    ],
+    "keywords": ["Fearsome"],
+    "keywordRefs": ["Fearsome"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -5052,22 +3991,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02NX007",
-      "02NX007T1"
-    ],
+    "associatedCardRefs": ["02NX007", "02NX007T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007T2-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 4,
     "cost": 5,
     "health": 7,
@@ -5079,14 +4011,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Swain",
     "cardCode": "02NX007T2",
-    "keywords": [
-      "Fearsome",
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Fearsome",
-      "Overwhelm"
-    ],
+    "keywords": ["Fearsome", "Overwhelm"],
+    "keywordRefs": ["Fearsome", "Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -5099,22 +4025,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02NX007",
-      "02NX007T2"
-    ],
+    "associatedCardRefs": ["02NX007", "02NX007T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX007T1-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -5126,12 +4045,8 @@
     "artistName": "Kudos Productions",
     "name": "Swain's Ravenous Flock",
     "cardCode": "02NX007T1",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "None",
@@ -5151,12 +4066,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX006-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 1,
     "cost": 4,
     "health": 5,
@@ -5189,12 +4100,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX002-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 6,
     "cost": 6,
     "health": 6,
@@ -5227,12 +4134,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX009-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -5244,12 +4147,8 @@
     "artistName": "Kudos Productions",
     "name": "Ravenous Flock",
     "cardCode": "02NX009",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -5262,21 +4161,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02NX004T1"
-    ],
+    "associatedCardRefs": ["02NX004T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX004.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX004-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 2,
     "cost": 2,
     "health": 2,
@@ -5309,12 +4202,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX003-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -5326,12 +4215,8 @@
     "artistName": "Kudos Productions",
     "name": "Noxian Fervor",
     "cardCode": "02NX003",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "COMMON",
@@ -5351,12 +4236,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX010-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 6,
     "cost": 6,
     "health": 5,
@@ -5368,12 +4249,8 @@
     "artistName": "Kudos Productions",
     "name": "Armored Tuskrider",
     "cardCode": "02NX010",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
@@ -5393,12 +4270,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX004T1-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -5410,12 +4283,8 @@
     "artistName": "Kudos Productions",
     "name": "Black Powder Grenade",
     "cardCode": "02NX004T1",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -5435,12 +4304,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX008-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -5452,12 +4317,8 @@
     "artistName": "Kudos Productions",
     "name": "Death's Hand",
     "cardCode": "02NX008",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "COMMON",
@@ -5477,12 +4338,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02NX005-full.png"
       }
     ],
-    "regions": [
-      "Noxus"
-    ],
-    "regionRefs": [
-      "Noxus"
-    ],
+    "regions": ["Noxus"],
+    "regionRefs": ["Noxus"],
     "attack": 4,
     "cost": 3,
     "health": 3,
@@ -5494,12 +4351,8 @@
     "artistName": "Kudos Productions",
     "name": "Iron Ballista",
     "cardCode": "02NX005",
-    "keywords": [
-      "Overwhelm"
-    ],
-    "keywordRefs": [
-      "Overwhelm"
-    ],
+    "keywords": ["Overwhelm"],
+    "keywordRefs": ["Overwhelm"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -5519,12 +4372,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE003-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 3,
     "cost": 3,
     "health": 4,
@@ -5557,12 +4406,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE008-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 5,
     "cost": 5,
     "health": 5,
@@ -5574,12 +4419,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Greathorn Companion",
     "cardCode": "02DE008",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -5599,12 +4440,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE004-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 2,
     "cost": 3,
     "health": 2,
@@ -5616,21 +4453,13 @@
     "artistName": "Rafael Zanchetin",
     "name": "Greenfang Warden",
     "cardCode": "02DE004",
-    "keywords": [
-      "Barrier",
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Barrier",
-      "Scout"
-    ],
+    "keywords": ["Barrier", "Scout"],
+    "keywordRefs": ["Barrier", "Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
     "rarityRef": "Common",
-    "subtypes": [
-      "ELITE"
-    ],
+    "subtypes": ["ELITE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -5638,23 +4467,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02DE006T2",
-      "02DE006T1",
-      "02DE006T3"
-    ],
+    "associatedCardRefs": ["02DE006T2", "02DE006T1", "02DE006T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 3,
     "cost": 5,
     "health": 5,
@@ -5666,12 +4487,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Quinn",
     "cardCode": "02DE006",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -5684,23 +4501,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02DE006",
-      "02DE006T1",
-      "02DE006T2"
-    ],
+    "associatedCardRefs": ["02DE006", "02DE006T1", "02DE006T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006T3.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006T3-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -5712,12 +4521,8 @@
     "artistName": "Kudos Productions",
     "name": "Quinn's Blinding Assault",
     "cardCode": "02DE006T3",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "None",
@@ -5737,12 +4542,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006T2-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 2,
     "cost": 2,
     "health": 1,
@@ -5754,14 +4555,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Valor",
     "cardCode": "02DE006T2",
-    "keywords": [
-      "Challenger",
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Challenger",
-      "Scout"
-    ],
+    "keywords": ["Challenger", "Scout"],
+    "keywordRefs": ["Challenger", "Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -5774,23 +4569,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02DE006",
-      "02DE006T3",
-      "02DE006T2"
-    ],
+    "associatedCardRefs": ["02DE006", "02DE006T3", "02DE006T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE006T1-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 4,
     "cost": 5,
     "health": 6,
@@ -5802,12 +4589,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Quinn",
     "cardCode": "02DE006T1",
-    "keywords": [
-      "Scout"
-    ],
-    "keywordRefs": [
-      "Scout"
-    ],
+    "keywords": ["Scout"],
+    "keywordRefs": ["Scout"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -5820,21 +4603,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02DE003"
-    ],
+    "associatedCardRefs": ["02DE003"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE009.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE009-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 3,
     "cost": 4,
     "health": 1,
@@ -5846,21 +4623,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Grizzled Ranger",
     "cardCode": "02DE009",
-    "keywords": [
-      "Scout",
-      "Last Breath"
-    ],
-    "keywordRefs": [
-      "Scout",
-      "LastBreath"
-    ],
+    "keywords": ["Scout", "Last Breath"],
+    "keywordRefs": ["Scout", "LastBreath"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "RARE",
     "rarityRef": "Rare",
-    "subtypes": [
-      "YORDLE"
-    ],
+    "subtypes": ["YORDLE"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -5875,12 +4644,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE005-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 0,
     "cost": 8,
     "health": 0,
@@ -5892,12 +4657,8 @@
     "artistName": "Max Grecke",
     "name": "Unyielding Spirit",
     "cardCode": "02DE005",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "EPIC",
@@ -5910,21 +4671,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02DE006T2"
-    ],
+    "associatedCardRefs": ["02DE006T2"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE002.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE002-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -5936,12 +4691,8 @@
     "artistName": "Kudos Productions",
     "name": "Blinding Assault",
     "cardCode": "02DE002",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "RARE",
@@ -5961,12 +4712,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE010-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 5,
     "cost": 6,
     "health": 4,
@@ -5978,14 +4725,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Genevieve Elmheart",
     "cardCode": "02DE010",
-    "keywords": [
-      "Scout",
-      "Challenger"
-    ],
-    "keywordRefs": [
-      "Scout",
-      "Challenger"
-    ],
+    "keywords": ["Scout", "Challenger"],
+    "keywordRefs": ["Scout", "Challenger"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -6005,12 +4746,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE007-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -6022,12 +4759,8 @@
     "artistName": "Kudos Productions",
     "name": "Ranger's Resolve",
     "cardCode": "02DE007",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -6047,12 +4780,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02DE001-full.png"
       }
     ],
-    "regions": [
-      "Demacia"
-    ],
-    "regionRefs": [
-      "Demacia"
-    ],
+    "regions": ["Demacia"],
+    "regionRefs": ["Demacia"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -6064,12 +4793,8 @@
     "artistName": "Kudos Productions",
     "name": "Concerted Strike",
     "cardCode": "02DE001",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "COMMON",
@@ -6089,12 +4814,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI005-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -6106,12 +4827,8 @@
     "artistName": "Kudos Productions",
     "name": "Sap Magic",
     "cardCode": "02SI005",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",
@@ -6131,12 +4848,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI010-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 3,
     "cost": 3,
     "health": 2,
@@ -6148,12 +4861,8 @@
     "artistName": "Slawomir Maniak",
     "name": "Deadbloom Wanderer",
     "cardCode": "02SI010",
-    "keywords": [
-      "Lifesteal"
-    ],
-    "keywordRefs": [
-      "Lifesteal"
-    ],
+    "keywords": ["Lifesteal"],
+    "keywordRefs": ["Lifesteal"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -6166,23 +4875,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02SI008T1",
-      "02SI008T2",
-      "02SI008T3"
-    ],
+    "associatedCardRefs": ["02SI008T1", "02SI008T2", "02SI008T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 1,
     "cost": 4,
     "health": 4,
@@ -6215,12 +4916,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008T3-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 2,
     "cost": 1,
     "health": 1,
@@ -6232,14 +4929,8 @@
     "artistName": "MAR Studio",
     "name": "Sapling",
     "cardCode": "02SI008T3",
-    "keywords": [
-      "Ephemeral",
-      "Challenger"
-    ],
-    "keywordRefs": [
-      "Ephemeral",
-      "Challenger"
-    ],
+    "keywords": ["Ephemeral", "Challenger"],
+    "keywordRefs": ["Ephemeral", "Challenger"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -6252,23 +4943,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02SI008T3",
-      "02SI008T2",
-      "02SI008"
-    ],
+    "associatedCardRefs": ["02SI008T3", "02SI008T2", "02SI008"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008T1-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 0,
     "cost": 3,
     "health": 0,
@@ -6280,12 +4963,8 @@
     "artistName": "Kudos Productions",
     "name": "Maokai's Sap Magic",
     "cardCode": "02SI008T1",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -6298,23 +4977,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02SI008",
-      "02SI008T1",
-      "02SI008T3"
-    ],
+    "associatedCardRefs": ["02SI008", "02SI008T1", "02SI008T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008T2.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI008T2-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 2,
     "cost": 4,
     "health": 5,
@@ -6326,12 +4997,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Maokai",
     "cardCode": "02SI008T2",
-    "keywords": [
-      "Regeneration"
-    ],
-    "keywordRefs": [
-      "Regeneration"
-    ],
+    "keywords": ["Regeneration"],
+    "keywordRefs": ["Regeneration"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -6351,12 +5018,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI007-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 1,
     "cost": 2,
     "health": 4,
@@ -6368,12 +5031,8 @@
     "artistName": "MAR Studio",
     "name": "Thorny Toad",
     "cardCode": "02SI007",
-    "keywords": [
-      "Last Breath"
-    ],
-    "keywordRefs": [
-      "LastBreath"
-    ],
+    "keywords": ["Last Breath"],
+    "keywordRefs": ["LastBreath"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -6393,12 +5052,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI003-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 6,
     "cost": 8,
     "health": 5,
@@ -6410,19 +5065,13 @@
     "artistName": "SIXMOREVODKA",
     "name": "Terror of the Tides",
     "cardCode": "02SI003",
-    "keywords": [
-      "Deep"
-    ],
-    "keywordRefs": [
-      "Deep"
-    ],
+    "keywords": ["Deep"],
+    "keywordRefs": ["Deep"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
     "rarityRef": "Epic",
-    "subtypes": [
-      "SEA MONSTER"
-    ],
+    "subtypes": ["SEA MONSTER"],
     "supertype": "",
     "type": "Unit",
     "collectible": true,
@@ -6437,12 +5086,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI001-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 2,
     "cost": 5,
     "health": 5,
@@ -6485,12 +5130,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI002-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 5,
     "cost": 7,
     "health": 3,
@@ -6516,21 +5157,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02SI008T3"
-    ],
+    "associatedCardRefs": ["02SI008T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI004.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI004-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 2,
     "cost": 3,
     "health": 1,
@@ -6563,12 +5198,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI006-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 1,
     "cost": 1,
     "health": 1,
@@ -6594,21 +5225,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02SI008T3"
-    ],
+    "associatedCardRefs": ["02SI008T3"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI009.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02SI009-full.png"
       }
     ],
-    "regions": [
-      "Shadow Isles"
-    ],
-    "regionRefs": [
-      "ShadowIsles"
-    ],
+    "regions": ["Shadow Isles"],
+    "regionRefs": ["ShadowIsles"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -6620,12 +5245,8 @@
     "artistName": "Kudos Productions",
     "name": "Sapling Toss",
     "cardCode": "02SI009",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -6638,21 +5259,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO008T1"
-    ],
+    "associatedCardRefs": ["02IO008T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO008.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO008-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -6664,12 +5279,8 @@
     "artistName": "Kudos Productions",
     "name": "Sonic Wave",
     "cardCode": "02IO008",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "COMMON",
@@ -6689,12 +5300,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO008T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -6706,14 +5313,8 @@
     "artistName": "Kudos Productions",
     "name": "Resonating Strike",
     "cardCode": "02IO008T1",
-    "keywords": [
-      "Burst",
-      "Fleeting"
-    ],
-    "keywordRefs": [
-      "Burst",
-      "Fleeting"
-    ],
+    "keywords": ["Burst", "Fleeting"],
+    "keywordRefs": ["Burst", "Fleeting"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -6726,21 +5327,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO005"
-    ],
+    "associatedCardRefs": ["02IO005"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO005T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO005T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 3,
     "cost": 3,
     "health": 2,
@@ -6766,21 +5361,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO002T1"
-    ],
+    "associatedCardRefs": ["02IO002T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO002.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO002-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 4,
     "cost": 3,
     "health": 2,
@@ -6806,21 +5395,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO002"
-    ],
+    "associatedCardRefs": ["02IO002"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO002T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO002T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -6832,12 +5415,8 @@
     "artistName": "Kudos Productions",
     "name": "Dragon's Protection",
     "cardCode": "02IO002T1",
-    "keywords": [
-      "Focus"
-    ],
-    "keywordRefs": [
-      "Focus"
-    ],
+    "keywords": ["Focus"],
+    "keywordRefs": ["Focus"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -6850,24 +5429,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO008T1",
-      "02IO011",
-      "02IO006T3",
-      "02IO006T1"
-    ],
+    "associatedCardRefs": ["02IO008T1", "02IO011", "02IO006T3", "02IO006T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO006.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO006-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 3,
     "cost": 5,
     "health": 5,
@@ -6879,12 +5449,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Lee Sin",
     "cardCode": "02IO006",
-    "keywords": [
-      "Imbue"
-    ],
-    "keywordRefs": [
-      "Imbue"
-    ],
+    "keywords": ["Imbue"],
+    "keywordRefs": ["Imbue"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "Champion",
@@ -6897,23 +5463,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO006T1",
-      "02IO006",
-      "02IO008T1"
-    ],
+    "associatedCardRefs": ["02IO006T1", "02IO006", "02IO008T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO011.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO011-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -6925,12 +5483,8 @@
     "artistName": "Kudos Productions",
     "name": "Lee Sin's Sonic Wave",
     "cardCode": "02IO011",
-    "keywords": [
-      "Burst"
-    ],
-    "keywordRefs": [
-      "Burst"
-    ],
+    "keywords": ["Burst"],
+    "keywordRefs": ["Burst"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -6943,24 +5497,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO008T1",
-      "02IO011",
-      "02IO006T3",
-      "02IO006"
-    ],
+    "associatedCardRefs": ["02IO008T1", "02IO011", "02IO006T3", "02IO006"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO006T1.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO006T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 4,
     "cost": 5,
     "health": 6,
@@ -6972,12 +5517,8 @@
     "artistName": "SIXMOREVODKA",
     "name": "Lee Sin",
     "cardCode": "02IO006T1",
-    "keywords": [
-      "Imbue"
-    ],
-    "keywordRefs": [
-      "Imbue"
-    ],
+    "keywords": ["Imbue"],
+    "keywordRefs": ["Imbue"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -6997,12 +5538,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO006T3-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 0,
     "health": 0,
@@ -7014,12 +5551,8 @@
     "artistName": "Kudos Productions",
     "name": "Dragon's Rage",
     "cardCode": "02IO006T3",
-    "keywords": [
-      "Skill"
-    ],
-    "keywordRefs": [
-      "Skill"
-    ],
+    "keywords": ["Skill"],
+    "keywordRefs": ["Skill"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
@@ -7039,12 +5572,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO004-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 4,
     "cost": 6,
     "health": 6,
@@ -7056,12 +5585,8 @@
     "artistName": "JiHun Lee",
     "name": "Horns of the Dragon",
     "cardCode": "02IO004",
-    "keywords": [
-      "Double Attack"
-    ],
-    "keywordRefs": [
-      "DoubleStrike"
-    ],
+    "keywords": ["Double Attack"],
+    "keywordRefs": ["DoubleStrike"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "COMMON",
@@ -7074,21 +5599,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO003T1"
-    ],
+    "associatedCardRefs": ["02IO003T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO003.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO003-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 1,
     "cost": 2,
     "health": 3,
@@ -7100,14 +5619,8 @@
     "artistName": "Dao Le",
     "name": "Eye of the Dragon",
     "cardCode": "02IO003",
-    "keywords": [
-      "Attune",
-      "Flow"
-    ],
-    "keywordRefs": [
-      "Attune",
-      "Flow"
-    ],
+    "keywords": ["Attune", "Flow"],
+    "keywordRefs": ["Attune", "Flow"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "EPIC",
@@ -7127,12 +5640,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO001-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 3,
     "cost": 2,
     "health": 2,
@@ -7165,12 +5674,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO003T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 2,
     "cost": 2,
     "health": 1,
@@ -7182,21 +5687,13 @@
     "artistName": "Dao Le",
     "name": "Dragonling",
     "cardCode": "02IO003T1",
-    "keywords": [
-      "Ephemeral",
-      "Lifesteal"
-    ],
-    "keywordRefs": [
-      "Ephemeral",
-      "Lifesteal"
-    ],
+    "keywords": ["Ephemeral", "Lifesteal"],
+    "keywordRefs": ["Ephemeral", "Lifesteal"],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "None",
     "rarityRef": "None",
-    "subtypes": [
-      "DRAGON"
-    ],
+    "subtypes": ["DRAGON"],
     "supertype": "",
     "type": "Unit",
     "collectible": false,
@@ -7204,21 +5701,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO005T1"
-    ],
+    "associatedCardRefs": ["02IO005T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO005.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO005-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 4,
     "health": 0,
@@ -7230,12 +5721,8 @@
     "artistName": "Kudos Productions",
     "name": "Concussive Palm",
     "cardCode": "02IO005",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -7248,21 +5735,15 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO010T1"
-    ],
+    "associatedCardRefs": ["02IO010T1"],
     "assets": [
       {
         "gameAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO010.png",
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO010-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 2,
     "health": 0,
@@ -7274,12 +5755,8 @@
     "artistName": "Kudos Productions",
     "name": "Retreat",
     "cardCode": "02IO010",
-    "keywords": [
-      "Fast"
-    ],
-    "keywordRefs": [
-      "Fast"
-    ],
+    "keywords": ["Fast"],
+    "keywordRefs": ["Fast"],
     "spellSpeed": "Fast",
     "spellSpeedRef": "Fast",
     "rarity": "RARE",
@@ -7299,12 +5776,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO007-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 7,
     "health": 0,
@@ -7316,12 +5789,8 @@
     "artistName": "Kudos Productions",
     "name": "Dragon's Rage",
     "cardCode": "02IO007",
-    "keywords": [
-      "Slow"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
+    "keywords": ["Slow"],
+    "keywordRefs": ["Slow"],
     "spellSpeed": "Slow",
     "spellSpeedRef": "Slow",
     "rarity": "EPIC",
@@ -7341,12 +5810,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO010T1-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 1,
     "health": 0,
@@ -7358,14 +5823,8 @@
     "artistName": "Kudos Productions",
     "name": "Return",
     "cardCode": "02IO010T1",
-    "keywords": [
-      "Burst",
-      "Fleeting"
-    ],
-    "keywordRefs": [
-      "Burst",
-      "Fleeting"
-    ],
+    "keywords": ["Burst", "Fleeting"],
+    "keywordRefs": ["Burst", "Fleeting"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "None",
@@ -7385,12 +5844,8 @@
         "fullAbsolutePath": "http://dd.b.pvp.net/4_0_0/set2/en_us/img/cards/02IO009-full.png"
       }
     ],
-    "regions": [
-      "Ionia"
-    ],
-    "regionRefs": [
-      "Ionia"
-    ],
+    "regions": ["Ionia"],
+    "regionRefs": ["Ionia"],
     "attack": 0,
     "cost": 5,
     "health": 0,
@@ -7402,14 +5857,8 @@
     "artistName": "Kudos Productions",
     "name": "Deep Meditation",
     "cardCode": "02IO009",
-    "keywords": [
-      "Burst",
-      "Flow"
-    ],
-    "keywordRefs": [
-      "Burst",
-      "Flow"
-    ],
+    "keywords": ["Burst", "Flow"],
+    "keywordRefs": ["Burst", "Flow"],
     "spellSpeed": "Burst",
     "spellSpeedRef": "Burst",
     "rarity": "RARE",

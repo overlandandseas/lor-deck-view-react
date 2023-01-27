@@ -1,13 +1,11 @@
-
 import { Deck } from "lor-deckcodes-ts";
-import set1 from "../assets/set1-en_us.json"
-import set2 from "../assets/set2-en_us.json"
-import set3 from "../assets/set3-en_us.json"
-import set4 from "../assets/set4-en_us.json"
-import set5 from "../assets/set5-en_us.json"
-import set6 from "../assets/set6-en_us.json"
-import set6cde from "../assets/set6cde-en_us.json"
-
+import set1 from "../assets/set1-en_us.json";
+import set2 from "../assets/set2-en_us.json";
+import set3 from "../assets/set3-en_us.json";
+import set4 from "../assets/set4-en_us.json";
+import set5 from "../assets/set5-en_us.json";
+import set6 from "../assets/set6-en_us.json";
+import set6cde from "../assets/set6cde-en_us.json";
 
 export interface Asset {
   readonly gameAbsolutePath: string;
@@ -44,25 +42,23 @@ export interface CardData {
   readonly set: string;
 }
 
-
 export interface CardCount {
-  readonly count: number,
-  readonly card: CardData
+  readonly count: number;
+  readonly card: CardData;
 }
 
 export interface FormattedDeck {
-  readonly champions: CardCount[],
-  readonly followers: CardCount[],
-  readonly landmarks: CardCount[],
-  readonly spells: CardCount[]
-
+  readonly champions: CardCount[];
+  readonly followers: CardCount[];
+  readonly landmarks: CardCount[];
+  readonly spells: CardCount[];
 }
 
 interface DeckDataMap {
-  [index: string]: CardData
+  [index: string]: CardData;
 }
 
-const deckDataMap: DeckDataMap = {}
+const deckDataMap: DeckDataMap = {};
 
 for (let card of set1 as CardData[]) {
   deckDataMap[card.cardCode] = card;
@@ -86,10 +82,9 @@ for (let card of set6cde as CardData[]) {
   deckDataMap[card.cardCode] = card;
 }
 
-
 export function getCardData(cardCode: string): CardData {
   if (!deckDataMap[cardCode]) {
-    throw new Error(`Card: ${cardCode} not found.`)
+    throw new Error(`Card: ${cardCode} not found.`);
   }
   return deckDataMap[cardCode];
 }
@@ -104,21 +99,21 @@ export function getFormattedDeck(deck: Deck): FormattedDeck {
     const card = getCardData(cardCode);
 
     switch (card.type) {
-      case 'Spell':
+      case "Spell":
         spells.push({ card, count });
         break;
-      case 'Unit':
-        if (card.rarity === 'Champion') {
+      case "Unit":
+        if (card.rarity === "Champion") {
           champions.push({ card, count });
         } else {
           followers.push({ card, count });
         }
         break;
-      case 'Landmark':
+      case "Landmark":
         landmarks.push({ card, count });
         break;
       default:
-        throw new Error('Unkown card type');
+        throw new Error("Unkown card type");
     }
 
     const cost = (a: CardCount, b: CardCount) => a.card.cost - b.card.cost;
@@ -127,13 +122,12 @@ export function getFormattedDeck(deck: Deck): FormattedDeck {
     followers.sort(cost);
     landmarks.sort(cost);
     spells.sort(cost);
-
   }
 
   return {
     champions,
     followers,
     landmarks,
-    spells
-  }
+    spells,
+  };
 }
