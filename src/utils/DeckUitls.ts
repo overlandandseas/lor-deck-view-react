@@ -115,14 +115,13 @@ export function getFormattedDeck(deck: Deck): FormattedDeck {
       default:
         throw new Error("Unkown card type");
     }
-
-    const cost = (a: CardCount, b: CardCount) => a.card.cost - b.card.cost;
-
-    champions.sort(cost);
-    followers.sort(cost);
-    landmarks.sort(cost);
-    spells.sort(cost);
   }
+  const cost = (a: CardCount, b: CardCount) => a.card.cost - b.card.cost;
+
+  champions.sort(cost);
+  followers.sort(cost);
+  landmarks.sort(cost);
+  spells.sort(cost);
 
   return {
     champions,
